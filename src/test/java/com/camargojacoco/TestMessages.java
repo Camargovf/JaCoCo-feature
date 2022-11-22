@@ -1,5 +1,7 @@
 package com.camargojacoco;
 
+//Cobertura JaCoCo
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
